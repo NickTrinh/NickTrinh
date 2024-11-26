@@ -2,7 +2,7 @@
 
 **`Computer Science Student & Developer`**
 
-I'm a sophmore studying Mathematics & Computer Science at Fordham University. Programming and building technology to improve lives since 2018. Feel free to reach out to me at my socials!
+I'm a sophmore studying Mathematics & Computer Science at Fordham University. Programming and building technology to improve lives. Feel free to reach out to me at my socials!
 
    <p align="left">
       <a href="https://www.linkedin.com/in/nicktrinh/" target="_blank">
